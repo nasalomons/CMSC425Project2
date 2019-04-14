@@ -4,3 +4,6 @@ Logs/
 Project2.sln
 Temp/
 .vs/
+obj/
+Assembly-CSharp.csproj
+Assembly-CSharp-firstpass.csproj
